@@ -13,7 +13,7 @@ Check out these repos. You'll find something useful(I guess) :)
 </p>
 
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=Symbian-Bro&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=Symbian-Bro&color=blue" alt="Profile views"/>
 </p>
 
 ![Snake animation](https://github.com/Symbian-Bro/snk/blob/output/github-contribution-grid-snake.svg)
