@@ -6,7 +6,6 @@ Check out these repos. You'll find something useful(I guess) :)
 
 <p align="center">
   <img src="<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Symbian-Bro&theme=radical" alt="streak"/>
-" alt="streak"/>
 </p>
 
 <p align="center">
