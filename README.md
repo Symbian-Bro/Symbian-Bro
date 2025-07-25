@@ -1,5 +1,5 @@
 # Hi there 👋
-Check out these repos. You'll find something useful (I guess) :)
+Check out these repos if you feel like it. Quick-Vantage is my fav :)
 
 <table>
   <tr>
