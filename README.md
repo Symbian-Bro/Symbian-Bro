@@ -8,4 +8,4 @@ Check these repos out. Quick-Vantage is my fav :)
   </tr>
 </table>
 
-![Snake animation](https://github.com/Symbian-Bro/snk/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Symbian-Bro/snk/blob/output/github-contribution-grid-snake.svg)-->
